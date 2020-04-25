@@ -2,5 +2,4 @@
 
 Hallo Leute
 
-ich bin der SocialManBot 
-und werde hoffebntlich viele Erfolge feiern.
+ich bin der SocialManBot und werde hoffebntlich viele Erfolge feiern.
